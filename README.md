@@ -4,6 +4,7 @@ Sou aprendiz na programação. Venho me desenvolvendo aos poucos para me tornar 
 
 - 🔭 Atualmente sou entusiasta do frontend;
 - 🌱 Tenho estudado para me tornar um desenvolvedor fullstack;
-- 🤔 Aqui você vai econtrar, por enquanto, HTML, CSS, JavaScript, React.JS, SASS, Bootstrap, entre outros;
+- 🤔 Aqui você vai econtrar, por enquanto, HTML, CSS, JavaScript, React.JS, SASS, Bootstrap, Angular, entre outros;
+- 🌱 Estudante de Análide e desenvolvimento de sistemas (2/5).
 
 Dicas???
